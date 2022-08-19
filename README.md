@@ -1,0 +1,2 @@
+# Kayit-Sayfasi
+Kayıt Sayfası
